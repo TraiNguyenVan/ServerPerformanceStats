@@ -80,6 +80,26 @@ up 4 hours, 47 minutes
 ==============================
 ```
 
+## Commands Used
+
+| Command | Purpose | Docs |
+|---------|---------|------|
+| `awk` | Text processing and pattern scanning | [GNU Awk](https://www.gnu.org/software/gawk/manual/gawk.html) |
+| `cat` | Read and display file contents | [cat man](https://www.gnu.org/software/coreutils/cat) |
+| `df` | Report disk space usage | [df man](https://www.gnu.org/software/coreutils/df) |
+| `echo` | Print text to terminal | [echo man](https://www.gnu.org/software/coreutils/echo) |
+| `free` | Display memory usage | [free man](https://man7.org/linux/man-pages/man1/free.1.html) |
+| `grep` | Search text using patterns | [GNU Grep](https://www.gnu.org/software/grep/manual/grep.html) |
+| `head` | Output the first lines of a file | [head man](https://www.gnu.org/software/coreutils/head) |
+| `ps` | Report process status | [ps man](https://man7.org/linux/man-pages/man1/ps.1.html) |
+| `sed` | Stream editor for filtering text | [GNU Sed](https://www.gnu.org/software/sed/manual/sed.html) |
+| `sort` | Sort lines of text files | [sort man](https://www.gnu.org/software/coreutils/sort) |
+| `tail` | Output the last lines of a file | [tail man](https://www.gnu.org/software/coreutils/tail) |
+| `top` | Display and update process info | [top man](https://man7.org/linux/man-pages/man1/top.1.html) |
+| `uptime` | Show how long the system has been running | [uptime man](https://man7.org/linux/man-pages/man1/uptime.1.html) |
+| `wc` | Word, line, character count | [wc man](https://www.gnu.org/software/coreutils/wc) |
+| `who` | Show who is logged in | [who man](https://www.gnu.org/software/coreutils/who) |
+
 ## License
 
 [MIT](LICENSE)
